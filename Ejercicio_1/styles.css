@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+form {
+    display: inline-block;
+    padding: 20px;
+}
+
+input {
+    margin: 8px;
+    padding: 8px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.btn-cifrar {
+    background-color: royalblue;
+}
+
+.btn-descifrar {
+    background-color: seagreen;
+}
+
+.alerta-error {
+    color: red;
+    margin-top: 20px;
+}
+
+.alerta-exito {
+    color: green;
+    margin-top: 20px;
+}
